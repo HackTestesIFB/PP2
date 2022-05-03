@@ -10,7 +10,7 @@
 
 Repositório para a disciplina de Programação para Internet 2 do curso TSI do IFB. São feitos commits a cada módulo completo na atividade.
 
-## Branch pricipal
+## Branch principal
 
 - Master
 
