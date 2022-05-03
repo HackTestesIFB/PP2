@@ -3,7 +3,7 @@
 ## Navegação
 1. [Sobre](#sobre)
 1. [Branch Principal](#branch-principal)
-1. [Dependências](#dependencias)
+1. [Dependências](#dependências)
 1. [Autores](#autores)
 
 ## Sobre
