@@ -16,7 +16,7 @@ Repositório para a disciplina de Programação para Internet 2 do curso TSI do 
 
 ## Dependências
 
-- Python 3
+- Python 3.9
 - Pip
 - Django 2.2
 - HTML, CSS
