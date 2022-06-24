@@ -147,7 +147,9 @@ URL                     Directory
 /static/                /home/NOME_DE_USUARIO/experiencein_repo/experiencein/static
 ```
 
-**FINALIZADO**!!! Agora é sóacessar o seu domínio
+**FINALIZADO**!!! Agora é só acessar o seu domínio!
+
+[Domínio utilizado pelo repositório](https://hacktestesifb.pythonanywhere.com/)
 
 ## Autores
 
