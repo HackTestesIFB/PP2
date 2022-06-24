@@ -80,7 +80,7 @@ mkvirtualenv --python=/usr/bin/python3.7 experiencein-virtualenv
 
 5. Instalação e verificação do django 2.2 no ambiente virtual
 
-    * Instalção
+    * Instalação
     ```
     pip install django==2.2
     ```
@@ -109,7 +109,7 @@ mkvirtualenv --python=/usr/bin/python3.7 experiencein-virtualenv
     /home/NOME_DE_USUARIO/.virtualenvs/experiencein-virtualenv
     ```
 
-13. Vá para a seção Code --> WSGI configuration file e retire os comentários da seção de Django
+13. Vá para a seção Code --> *WSGI configuration file* e retire os comentários da seção de Django
 
 14. Ainda na seção Django do arquivo WSGI, altere 2 variáveis
 
